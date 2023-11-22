@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formation
 ======
-* B.S. Computer Science and Electrical engineering, Paris-Est Marne-La-vallée University, 2019
-* M.S. in Robotics and Machine learning, Paris-Saclay University, 2021
-* Ph.D in Artificial Intelligence and Computer Vision, GeorgiaTech-CNRS & CentraleSupelec, 2024 (expected)
+* Docteur en Pharmacie, Faculté de médecine de Tizi-Ouzou, Algérie, 2021
+* Attachée de recherches cliniques, ISVM Formasup Campus Bordeaux, France, Janvier 2024
 
 Work experience
 ======
