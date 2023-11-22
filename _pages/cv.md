@@ -14,44 +14,24 @@ Formation
 * Docteur en Pharmacie, Faculté de médecine de Tizi-Ouzou, Algérie, 2021
 * Attachée de recherches cliniques, ISVM Formasup Campus Bordeaux, France, Janvier 2024
 
-Work experience
+Expériences professionnelles 
 ======
-* December 2021 - Present: Research AI at GeorgiaTech-CNRS & CentraleSupelec
-   * Supervision Projects in AI 
-   * Teaching ML/DL and Labworks supervision  
+* Janvier 2023 - Août 2023: Visiteur médical, Astra Zeneca Algérie
+   * Outil CRM sur secteur : Planification, ciblage, segmentation des HCP et reporting qualitatif. 
+   * Promotion auprès des HCP des études cliniques valorisant la gamme.
+   * Investigation sur terrain et pharmacovigilance.
 
-* March-September 2021: Data Scientist at Capgemini (Project: Smart Universal Robot (SUR))
-   * Using Stacking and Ensemble architecture techniques for detection and estimation  of 6D pose of objects (Resnet + EfficientNet V2). 
-   * Implementation of neural networks for anomalies and defects detection on aircrafts using camera.
-   * Train and Inference using DGX server / Deployment On GCP using Docker images.
+* Février 2021 - Janvier 2023: Visiteur médical, Biopharm SPA
+   * Mise en place et exécution de plan d’action selon l’aire thérapeutique et le secteur.
 
-* Dec 2020 - March 2021: Research Assistant (Project: Anomaly and outlier Detection using Deep Learning)
-   * Development of a new neural network architecture. 
-   * Exploratory data analysis / Preprocessing and features engineering / Classification
-   * Train and Inference using Azure Cloud Compute instance. 
+* 2020 - 2021: Interne en Pharmacie, Centre Hospitalo-universitaire de Tizi-Ouzou
+   * Pharmacie hospitalière et clinique : gestion et dispensation des traitements, suivi personnalisé des patients. 
+   * Biologie médicale et immunologie : maîtrise des techniques d'immunodosage et d'immunomarquage. 
 
-* Sept 2020 - Dec 2020: Research Assistant (Project: Transfer Learning for EEG signals in BCI)
-   * Data cleaning / Features engineering / Preprocessing \hfill  
-   * Implementation of pipelines and models of Machine Learning (Random Forest, SVM) for BCI. 
-   * Presentation of published article at IEEE NER 2021 conference 
   
-Skills
+Compétences 
 ======
-* Programming language: Python, C/C++, Bash, SQL, NoSQL, Hadoop, PySpark, RAPIDS, Scala, SAS.
-* Topics: Data Science / Engineer, Machine Learning, Deep Learning, Computer Vision, NLP, Cloud Computing.
-* Dev tools: Pytorch, Scikit-learn, Tensorflow, Keras, Fastai, Git, Linux, Power BI, Docker, Kubernetes, Cuda, DGX.
-* Cloud architecture: Google Cloud Plateform (GCP), Azure Cloud.
+* Numérique: Microsoft 365 et pack office, Veeva CRM + CLM + Salesforce CRM et veeva engage, Saba Cloud et Degreed
+* Atout: Aisance et assurance en communication médicale, Autonomie, Lucidité, Adaptation. 
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
